@@ -22,6 +22,7 @@ jobs:
         run: |
           pip install ccxt pandas numpy python-dotenv requests
           pip install ta-lib-bin
+          python -c "import talib; print('talib OK:', talib.__version__)"
 
       - name: Run signal scanner
         env:
