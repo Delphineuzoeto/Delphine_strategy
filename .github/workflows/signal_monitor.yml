@@ -18,19 +18,9 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install TA-Lib from source
-        run: |
-          wget https://github.com/ta-lib/ta-lib/releases/download/v0.4.0/ta-lib-0.4.0-src.tar.gz
-          tar -xzf ta-lib-0.4.0-src.tar.gz
-          cd ta-lib
-          ./configure --prefix=/usr
-          make
-          sudo make install
-          sudo ldconfig
-
       - name: Install Python dependencies
         run: |
-          pip install ccxt pandas numpy TA-Lib python-dotenv requests
+          pip install ccxt pandas numpy pandas-ta python-dotenv requests
 
       - name: Run signal scanner
         env:
