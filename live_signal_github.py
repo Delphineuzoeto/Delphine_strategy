@@ -52,8 +52,8 @@ WATCHLIST = [
     "TRUMP/USDT:USDT",
 ]
 
-exchange = ccxt.bybit({
-    "options": {"defaultType": "future"}
+exchange = ccxt.binance({
+    "options": {"defaultType": "future"}, "hostname": "fapi.binance.com"
 })
 
 def load_trades():
