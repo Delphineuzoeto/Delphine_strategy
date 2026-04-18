@@ -2,8 +2,8 @@ name: AfriMetrics Signal Monitor
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # every 15 minutes
-  workflow_dispatch:          # manual trigger button
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   run_signals:
@@ -18,14 +18,20 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install TA-Lib
+      - name: Install TA-Lib system library
         run: |
           sudo apt-get update
-          sudo apt-get install -y ta-lib
+          sudo apt-get install -y libta-lib0-dev
+          wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz
+          tar -xzf ta-lib-0.4.0-src.tar.gz
+          cd ta-lib/
+          ./configure --prefix=/usr
+          make
+          sudo make install
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          pip install ccxt pandas numpy talib-binary python-dotenv requests
+          pip install ccxt pandas numpy TA-Lib python-dotenv requests
 
       - name: Run signal scanner
         env:
