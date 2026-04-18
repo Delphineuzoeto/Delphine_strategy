@@ -20,12 +20,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install ccxt pandas numpy python-dotenv requests
-          pip install ta-lib-bin
-          python -c "import talib; print('talib OK:', talib.__version__)"
+          pip install ccxt pandas numpy pandas-ta python-dotenv requests
 
       - name: Run signal scanner
         env:
           TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python live_signal_once.py
+        run: python live_signal_github.py
