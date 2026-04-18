@@ -52,7 +52,7 @@ WATCHLIST = [
     "TRUMP/USDT:USDT",
 ]
 
-exchange = ccxt.binance({
+exchange = ccxt.bybit({
     "options": {"defaultType": "future"}
 })
 
