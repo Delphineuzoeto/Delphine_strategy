@@ -1,0 +1,10 @@
+.env
+*.db
+__pycache__/
+trading_env/
+*.csv
+*.json
+*.png
+Crypto-Signal/
+freqtrade-strategies/
+freqtrade/
