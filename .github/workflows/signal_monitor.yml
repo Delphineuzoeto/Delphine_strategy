@@ -18,9 +18,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: |
-          pip install ccxt pandas numpy pandas-ta python-dotenv requests
+          pip install ccxt pandas numpy python-dotenv requests
+          pip install ta-lib-bin
 
       - name: Run signal scanner
         env:
