@@ -1,0 +1,908 @@
+nohup: ignoring input
+============================================================
+ AFRIMETRICS SIGNAL MONITOR — v6.0
+ Watching:   18 pairs
+ Filters:    ATR+RSI+MACD+OBV+CCI+VWAP+HA+F&G+Regime+1H
+ Telegram:   Connected ✅
+============================================================
+  Fear & Greed: 26 — Fear
+  UTC hour: 17
+  Active trades: 0
+
+  Telegram sent!
+
+[2026-04-18 18:26:00] UTC:17h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.95 | RSI: 54.7 | CCI: -8 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -8
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.29 | RSI: 51.5 | CCI: -22 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.4 | RSI: 50.1 | CCI: -105 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 1.05 | RSI: 52.6 | CCI: -73 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -73
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.17 | RSI: 45.4 | CCI: -142 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -142
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.86 | RSI: 55.4 | CCI: 24 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -1.82 | RSI: 39.8 | CCI: -123 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: 0.13 | RSI: 48.3 | CCI: -132 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -132
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 1.21 | RSI: 55.1 | CCI: -32 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -32
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: 0.08 | RSI: 51.7 | CCI: 4 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.94 | RSI: 61.6 | CCI: 44 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 44
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.21 | RSI: 45.8 | CCI: -152 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -152
+
+  [AVAX/USDT]
+  Error: binance GET https://fapi.binance.com/fapi/v1/klines?interval=4h&limit=1000&symbol=AVAXUSDT
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: 0.35 | RSI: 49.6 | CCI: -103 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -103
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 1.29 | RSI: 52.2 | CCI: -121 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -0.94 | RSI: 43.8 | CCI: -173 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: UP/UP | Dist: 1.58 | RSI: 55.9 | CCI: -69 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: -69
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/UP | Dist: -0.17 | RSI: 44.9 | CCI: -153 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 18:42:30] UTC:17h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.99 | RSI: 55.1 | CCI: -7 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -7
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.35 | RSI: 52.0 | CCI: -20 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.44 | RSI: 50.4 | CCI: -104 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 1.06 | RSI: 52.7 | CCI: -73 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -73
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.11 | RSI: 45.8 | CCI: -141 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -141
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.87 | RSI: 55.4 | CCI: 24 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -1.82 | RSI: 39.8 | CCI: -123 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: 0.2 | RSI: 48.8 | CCI: -130 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -130
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 1.3 | RSI: 55.7 | CCI: -29 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -29
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: 0.07 | RSI: 51.6 | CCI: 3 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.88 | RSI: 61.1 | CCI: 43 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 43
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.14 | RSI: 46.3 | CCI: -150 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -150
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.45 | RSI: 45.3 | CCI: -130 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -130
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: 0.42 | RSI: 50.2 | CCI: -101 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -101
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 1.34 | RSI: 52.6 | CCI: -119 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.12 | RSI: 42.6 | CCI: -182 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: UP/UP | Dist: 1.65 | RSI: 56.4 | CCI: -67 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: -67
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/UP | Dist: -0.08 | RSI: 45.5 | CCI: -151 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 18:58:31] UTC:17h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.97 | RSI: 54.9 | CCI: -8 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -8
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.38 | RSI: 52.2 | CCI: -19 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.46 | RSI: 50.6 | CCI: -103 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 1.08 | RSI: 52.9 | CCI: -72 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -72
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.18 | RSI: 45.3 | CCI: -143 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -143
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.86 | RSI: 55.3 | CCI: 24 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -1.84 | RSI: 39.7 | CCI: -125 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: 0.12 | RSI: 48.3 | CCI: -132 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -132
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 1.27 | RSI: 55.5 | CCI: -30 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -30
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: 0.05 | RSI: 51.5 | CCI: 2 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.87 | RSI: 61.1 | CCI: 43 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 43
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.21 | RSI: 45.8 | CCI: -152 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -152
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.46 | RSI: 45.2 | CCI: -131 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -131
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: 0.39 | RSI: 49.9 | CCI: -102 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -102
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 1.29 | RSI: 52.2 | CCI: -121 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.34 | RSI: 41.2 | CCI: -199 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: UP/UP | Dist: 1.56 | RSI: 55.8 | CCI: -70 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: -70
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/UP | Dist: -0.18 | RSI: 44.8 | CCI: -154 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 19:14:28] UTC:18h | Active: 0 | Scanning 18 pairs...
+  Fear & Greed: 26 — Fear
+  Telegram sent!
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.92 | RSI: 54.5 | CCI: -9 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -9
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.34 | RSI: 52.0 | CCI: -20 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.37 | RSI: 49.8 | CCI: -106 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 1.05 | RSI: 52.6 | CCI: -73 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -73
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.22 | RSI: 45.1 | CCI: -144 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -144
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.85 | RSI: 55.3 | CCI: 23 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -1.91 | RSI: 39.3 | CCI: -127 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: 0.07 | RSI: 47.9 | CCI: -134 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -134
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 1.31 | RSI: 55.7 | CCI: -29 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -29
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: 0.04 | RSI: 51.5 | CCI: 1 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 1/8 | CCI: 1
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.84 | RSI: 60.9 | CCI: 42 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 42
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.23 | RSI: 45.7 | CCI: -153 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -153
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.53 | RSI: 44.7 | CCI: -132 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -132
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: 0.31 | RSI: 49.3 | CCI: -105 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -105
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 1.23 | RSI: 51.7 | CCI: -124 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.28 | RSI: 41.5 | CCI: -199 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: UP/UP | Dist: 1.5 | RSI: 55.3 | CCI: -72 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: -72
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/UP | Dist: -0.23 | RSI: 44.5 | CCI: -155 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 19:30:26] UTC:18h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.75 | RSI: 53.0 | CCI: -13 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -13
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.17 | RSI: 50.6 | CCI: -25 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.14 | RSI: 48.3 | CCI: -118 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -118
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.83 | RSI: 51.0 | CCI: -81 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -81
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.58 | RSI: 42.5 | CCI: -161 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -161
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.77 | RSI: 54.6 | CCI: 20 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.08 | RSI: 38.2 | CCI: -138 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: -0.13 | RSI: 46.7 | CCI: -143 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -143
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 1.05 | RSI: 53.8 | CCI: -36 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -36
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: -0.09 | RSI: 50.5 | CCI: -9 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 1/8 | CCI: -9
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.66 | RSI: 59.9 | CCI: 37 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 37
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.4 | RSI: 44.6 | CCI: -158 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -158
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.69 | RSI: 43.6 | CCI: -138 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -138
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: 0.05 | RSI: 47.5 | CCI: -117 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -117
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 0.94 | RSI: 49.8 | CCI: -141 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.42 | RSI: 40.7 | CCI: -206 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: UP/UP | Dist: 0.39 | RSI: 48.6 | CCI: -147 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 7/8 | CCI: -147
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/UP | Dist: -0.37 | RSI: 43.5 | CCI: -158 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 19:46:29] UTC:18h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.74 | RSI: 53.1 | CCI: -17 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -17
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.01 | RSI: 49.4 | CCI: -37 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -37
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: -0.01 | RSI: 47.3 | CCI: -130 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -130
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.95 | RSI: 52.0 | CCI: -80 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -80
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.47 | RSI: 43.2 | CCI: -166 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -166
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.64 | RSI: 53.5 | CCI: 13 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.05 | RSI: 38.2 | CCI: -144 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: 0.04 | RSI: 47.7 | CCI: -141 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -141
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 0.95 | RSI: 53.3 | CCI: -46 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -46
+
+  [HYPE/USDT]
+  Error: binance GET https://fapi.binance.com/fapi/v1/klines?interval=4h&limit=1000&symbol=HYPEUSDT
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.58 | RSI: 59.6 | CCI: 33 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 33
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.39 | RSI: 44.6 | CCI: -164 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -164
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.68 | RSI: 43.6 | CCI: -145 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -145
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: -0.01 | RSI: 47.0 | CCI: -129 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -129
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 0.93 | RSI: 49.8 | CCI: -148 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.38 | RSI: 40.9 | CCI: -210 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: DOWN/UP | Dist: -0.74 | RSI: 42.0 | CCI: -228 | OBV: ↓ | VWAP: ❌ | Vol: 🔥 | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/UP | Dist: -0.37 | RSI: 43.5 | CCI: -161 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 20:03:07] UTC:19h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.81 | RSI: 53.6 | CCI: -15 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -15
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.15 | RSI: 50.5 | CCI: -34 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -34
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.08 | RSI: 47.9 | CCI: -127 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -127
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.9 | RSI: 51.6 | CCI: -81 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -81
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.49 | RSI: 43.0 | CCI: -166 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -166
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.71 | RSI: 54.1 | CCI: 15 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.06 | RSI: 38.1 | CCI: -148 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: 0.03 | RSI: 47.7 | CCI: -141 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -141
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 0.88 | RSI: 52.7 | CCI: -49 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -49
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: 0.05 | RSI: 51.5 | CCI: -4 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 1/8 | CCI: -4
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.63 | RSI: 59.9 | CCI: 34 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 34
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.37 | RSI: 44.7 | CCI: -163 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -163
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.59 | RSI: 44.2 | CCI: -142 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -142
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: 0.0 | RSI: 47.1 | CCI: -128 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -128
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 0.96 | RSI: 50.0 | CCI: -148 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.32 | RSI: 41.2 | CCI: -207 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: DOWN/UP | Dist: -0.16 | RSI: 45.4 | CCI: -213 | OBV: ↓ | VWAP: ❌ | Vol: 🔥 | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/DOWN | Dist: -0.42 | RSI: 43.2 | CCI: -168 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -168
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 20:19:28] UTC:19h | Active: 0 | Scanning 18 pairs...
+  Fear & Greed: 26 — Fear
+  Telegram sent!
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.88 | RSI: 54.2 | CCI: -14 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -14
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.13 | RSI: 50.4 | CCI: -34 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -34
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.11 | RSI: 48.1 | CCI: -126 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -126
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.92 | RSI: 51.7 | CCI: -81 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -81
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.4 | RSI: 43.7 | CCI: -164 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -164
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.84 | RSI: 55.3 | CCI: 18 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.05 | RSI: 38.2 | CCI: -147 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: 0.04 | RSI: 47.7 | CCI: -141 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -141
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 0.83 | RSI: 52.4 | CCI: -50 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -50
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: 0.06 | RSI: 51.6 | CCI: -4 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 1/8 | CCI: -4
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.53 | RSI: 59.2 | CCI: 33 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 33
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.35 | RSI: 44.9 | CCI: -162 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -162
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.54 | RSI: 44.5 | CCI: -141 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -141
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: 0.0 | RSI: 47.1 | CCI: -128 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -128
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 0.96 | RSI: 50.0 | CCI: -148 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.29 | RSI: 41.4 | CCI: -206 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: DOWN/UP | Dist: -0.42 | RSI: 43.8 | CCI: -220 | OBV: ↓ | VWAP: ❌ | Vol: 🔥 | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/DOWN | Dist: -0.49 | RSI: 42.7 | CCI: -170 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -170
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 20:35:38] UTC:19h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.72 | RSI: 52.9 | CCI: -17 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -17
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.06 | RSI: 49.9 | CCI: -36 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -36
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: -0.01 | RSI: 47.3 | CCI: -130 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -130
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.81 | RSI: 50.9 | CCI: -83 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -83
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.56 | RSI: 42.6 | CCI: -168 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -168
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.62 | RSI: 53.3 | CCI: 11 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.29 | RSI: 36.8 | CCI: -157 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: -0.07 | RSI: 47.1 | CCI: -144 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -144
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 0.56 | RSI: 50.5 | CCI: -61 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -61
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: -0.15 | RSI: 50.0 | CCI: -15 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 1/8 | CCI: -15
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.42 | RSI: 58.6 | CCI: 30 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 30
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.47 | RSI: 44.0 | CCI: -166 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -166
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.69 | RSI: 43.5 | CCI: -145 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -145
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: -0.14 | RSI: 46.1 | CCI: -133 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -133
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 0.9 | RSI: 49.6 | CCI: -150 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.35 | RSI: 41.0 | CCI: -209 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: DOWN/UP | Dist: -0.42 | RSI: 43.8 | CCI: -220 | OBV: ↓ | VWAP: ❌ | Vol: 🔥 | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/DOWN | Dist: -0.71 | RSI: 41.4 | CCI: -175 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -175
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 20:52:06] UTC:19h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.75 | RSI: 53.1 | CCI: -17 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -17
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: 0.05 | RSI: 49.8 | CCI: -36 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -36
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: 0.04 | RSI: 47.6 | CCI: -128 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -128
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.87 | RSI: 51.4 | CCI: -82 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -82
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.5 | RSI: 43.0 | CCI: -166 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -166
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.79 | RSI: 54.9 | CCI: 16 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.27 | RSI: 36.9 | CCI: -158 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: -0.06 | RSI: 47.1 | CCI: -144 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -144
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 0.77 | RSI: 52.0 | CCI: -55 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -55
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: -0.26 | RSI: 49.2 | CCI: -35 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 1/8 | CCI: -35
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.36 | RSI: 58.2 | CCI: 28 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 28
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.46 | RSI: 44.1 | CCI: -165 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -165
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.59 | RSI: 44.2 | CCI: -142 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 2/8 | CCI: -142
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: -0.12 | RSI: 46.3 | CCI: -132 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -132
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 0.93 | RSI: 49.8 | CCI: -149 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.35 | RSI: 41.0 | CCI: -209 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: DOWN/UP | Dist: -0.68 | RSI: 42.4 | CCI: -226 | OBV: ↓ | VWAP: ❌ | Vol: 🔥 | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/DOWN | Dist: -0.71 | RSI: 41.4 | CCI: -175 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 5/8 | CCI: -175
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 21:08:00] UTC:20h | Active: 0 | Scanning 18 pairs...
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.69 | RSI: 53.5 | CCI: -34 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: -0.1 | RSI: 49.6 | CCI: -55 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: -0.04 | RSI: 47.7 | CCI: -146 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.72 | RSI: 50.8 | CCI: -102 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -102
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.64 | RSI: 42.7 | CCI: -155 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -155
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.78 | RSI: 55.5 | CCI: 20 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.15 | RSI: 37.9 | CCI: -140 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: -0.12 | RSI: 47.3 | CCI: -140 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 3/8 | CCI: -140
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 0.75 | RSI: 52.5 | CCI: -77 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -77
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: -0.23 | RSI: 50.0 | CCI: -49 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.46 | RSI: 58.8 | CCI: 5 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 5
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.53 | RSI: 44.3 | CCI: -151 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -151
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.66 | RSI: 44.3 | CCI: -128 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [LINK/USDT]
+  4H/1H: UP/UP | Dist: -0.21 | RSI: 46.4 | CCI: -147 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -147
+
+  [DOT/USDT]
+  4H/1H: DOWN/UP | Dist: 0.84 | RSI: 49.4 | CCI: -158 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [NEAR/USDT]
+  4H/1H: UP/UP | Dist: -1.39 | RSI: 41.2 | CCI: -182 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [AAVE/USDT]
+  4H/1H: DOWN/UP | Dist: -0.91 | RSI: 41.7 | CCI: -235 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  SKIP — 4H/1H mismatch
+
+  [TRUMP/USDT]
+  4H/1H: DOWN/DOWN | Dist: -0.79 | RSI: 41.3 | CCI: -165 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -165
+
+  No signals. Next scan in 15 minutes.
+
+[2026-04-18 21:24:01] UTC:20h | Active: 0 | Scanning 18 pairs...
+  Fear & Greed: 26 — Fear
+  Telegram sent!
+
+  [BTC/USDT]
+  4H/1H: UP/UP | Dist: 0.67 | RSI: 53.4 | CCI: -33 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ETH/USDT]
+  4H/1H: UP/UP | Dist: -0.1 | RSI: 49.6 | CCI: -53 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [SOL/USDT]
+  4H/1H: UP/UP | Dist: -0.1 | RSI: 47.2 | CCI: -147 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [XRP/USDT]
+  4H/1H: UP/UP | Dist: 0.72 | RSI: 50.8 | CCI: -101 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -101
+
+  [DOGE/USDT]
+  4H/1H: UP/UP | Dist: -0.67 | RSI: 42.5 | CCI: -156 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -156
+
+  [XAU/USDT]
+  4H/1H: DOWN/UP | Dist: 0.76 | RSI: 55.4 | CCI: 20 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ZEC/USDT]
+  4H/1H: UP/DOWN | Dist: -2.14 | RSI: 37.9 | CCI: -139 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [1000PEPE/USDT]
+  4H/1H: UP/UP | Dist: -0.09 | RSI: 47.4 | CCI: -139 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 3/8 | CCI: -139
+
+  [BNB/USDT]
+  4H/1H: UP/UP | Dist: 0.68 | RSI: 52.0 | CCI: -79 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -79
+
+  [HYPE/USDT]
+  4H/1H: UP/UP | Dist: -0.25 | RSI: 49.9 | CCI: -49 | OBV: ↓ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [ENA/USDT]
+  4H/1H: UP/UP | Dist: 2.54 | RSI: 59.3 | CCI: 10 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 8/8 | CCI: 10
+
+  [SUI/USDT]
+  4H/1H: UP/UP | Dist: -0.55 | RSI: 44.2 | CCI: -149 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 📈
+  No signal | BO: 4/8 | CCI: -149
+
+  [AVAX/USDT]
+  4H/1H: UP/UP | Dist: -0.7 | RSI: 44.1 | CCI: -128 | OBV: ↑ | VWAP: ❌ | Vol: — | Regime: 〰️
+  SKIP — choppy market
+
+  [LINK/USDT]
